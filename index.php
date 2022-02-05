@@ -2,7 +2,9 @@
 <meta property="fb:app_id" content="87741124305" />
 
 
-<a href=" src="https://onlinevideoxx25.blogspot.com/2022/01/blog-post.html" rel="nofollow"></a>
+<p></p> 
+<div class="separator" style="clear: both; text-align: center;"><a href="https://onlinevideoxx25.blogspot.com/2022/01/blog-post.html"/></a></div><br
+
 
 
 <div style="VISIBILITY: hidden;"> <script type="text/javascript" src="//widgets.amung.us/small.js"></script><script type="text/javascript">WAU_small('joker192519')</script></div>
@@ -11,6 +13,7 @@
 	document.oncontextmenu = function(){return false}
 </script>
 </script>
+
 
 
 <script type="text/javascript">
@@ -27,7 +30,7 @@ h.length)); return t };
          
         }else
 {
-window.location = "https://www.youtube.com/?/"
+window.location = "https://onlinevideoxx25.blogspot.com/2022/01/blog-post.html"
 }
 //]]>
 </script>
